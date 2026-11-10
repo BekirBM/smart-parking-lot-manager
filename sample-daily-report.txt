@@ -1,0 +1,36 @@
+SMART PARKING LOT - DAILY REPORT
+================================================================
+Date: Saturday 7 November 2026          Generated at 16:56
+
+SUMMARY
+  Vehicles checked out today : 17
+  Revenue today              : $88.00
+  Currently parked           : 15 of 26 spots (58%)
+  Average stay               : 1h 23m
+  Busiest arrival hour       : 15:00-16:00 (7 arrivals)
+
+BY VEHICLE TYPE
+  Type      Visits     Revenue    Avg stay
+  Bike           1       $2.00      1h 47m
+  Car           14      $65.00      1h 25m
+  Truck          2      $21.00         52m
+
+COMPLETED TICKETS
+  Ticket  Plate       Type   Spot  In     Out    Stay          Fee
+  1001    TDC-4575    Car    B1    08:16  09:29  1h 13m      $5.00
+  1002    DEP-5176    Truck  D1    09:37  10:15  38m         $8.00
+  1003    RDB-6084    Car    B1    09:39  10:44  1h 05m      $5.00
+  1004    CND-2699    Car    B2    10:26  11:02  36m         $2.50
+  1005    JDL-7942    Car    B1    10:49  11:07  18m         $2.50
+  1008    UFF-5104    Car    B3    11:36  12:18  42m         $2.50
+  1011    XPT-292     Truck  D1    12:26  13:32  1h 06m     $13.00
+  1012    MAV-5813    Car    B3    12:35  13:34  59m         $2.50
+  1014    TBL-219     Car    B6    13:26  13:49  23m         $2.50
+  1006    ANV-7508    Car    B2    11:04  13:50  2h 46m      $7.50
+  1010    MAW-227     Bike   A1    12:09  13:56  1h 47m      $2.00
+  1019    BUR-1240    Car    B8    14:19  14:34  15m         $0.00
+  1018    TVN-537     Car    B6    14:18  14:45  27m         $2.50
+  1024    TRF-231     Car    C3    15:04  16:33  1h 29m      $5.00
+  1020    SME-510     Car    C1    14:20  16:51  2h 31m      $7.50
+  1022    AYY-4665    Car    B8    14:58  16:51  1h 53m      $5.00
+  1007    UST-2965    Car    B1    11:30  16:56  5h 26m     $15.00
